@@ -2,6 +2,3 @@
 
 
 Hello, my name is Mr Burns. I believe you have a letter for me.
-
-Hello, my name is Mr Burns.
-
